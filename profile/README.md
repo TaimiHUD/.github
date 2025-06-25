@@ -4,6 +4,12 @@
 
 [Data sources can be found or contributed here!](https://github.com/TaimiHUD/DataSources)
 
+## Feature-set
+
+* Pathing (like BlishHUD Pathing, TacO or Burrito)
+* Encounter Timers (like BlishHUD Timers)
+* Squad Markers (like BlishHUD Commander's Markers)
+
 ## Credits
 
 Thanks to [@stormalize](https://github.com/stormalize) for making our logo and the icons used in the quick-access area for the addon!
