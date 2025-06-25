@@ -6,7 +6,7 @@
 
 ## Credits
 
-Thanks to stormalize for making our logo and the icons used in the quick-access area for the addon!
+Thanks to [@stormalize](https://github.com/stormalize) for making our logo and the icons used in the quick-access area for the addon!
 
 ## The Team
 
