@@ -8,7 +8,7 @@
 
 Thanks to [@stormalize](https://github.com/stormalize) for making our logo and the icons used in the quick-access area for the addon!
 
-## The Team
+## The Development Team
 
 * [@kittywitch](https://github.com/kittywitch)
 * [@Connicpu](https://github.com/Connicpu)
