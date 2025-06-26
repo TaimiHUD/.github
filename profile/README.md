@@ -1,6 +1,8 @@
 # TaimiHUD
 
-[TaimiHUD](https://github.com/TaimiHUD/TaimiHUD) is an [MIT-licensed](https://opensource.org/license/mit) cross-platform [Nexus](https://raidcore.gg/nexus) and [ArcDPS](https://www.deltaconnected.com/arcdps/) [Guild Wars 2](https://www.guildwars2.com/) addon written in [Rust](https://www.rust-lang.org/) that provides functionality generally only seen on Windows, provided by TacO, BlishHUD, etc. It was made with the intention of providing a similar feature set to those of us on Linux and to those of us who did not want an overlay window, but something rendering within the game.
+[TaimiHUD](https://github.com/TaimiHUD/TaimiHUD) is an [MIT-licensed](https://opensource.org/license/mit) cross-platform [Nexus](https://raidcore.gg/nexus) and [ArcDPS](https://www.deltaconnected.com/arcdps/) [Guild Wars 2](https://www.guildwars2.com/) addon written in [Rust](https://www.rust-lang.org/) that provides functionality generally only seen on Windows, provided by TacO, BlishHUD, etc.
+
+It was made with the intention of providing a similar feature set to those of us on Linux and to those of us who did not want an overlay window, but something rendering within the game.
 
 We target both Windows and Wine (including macOS builds)!
 
